@@ -62,5 +62,10 @@
 			<artifactId>opencv</artifactId>
 			<version>2.4.9-5</version>
 		</dependency>
+		<dependency>
+			<groupId>com.github.habernal</groupId>
+			<artifactId>confusion-matrix</artifactId>
+			<version>1.0</version>
+		</dependency>
 	</dependencies>
 </project>
